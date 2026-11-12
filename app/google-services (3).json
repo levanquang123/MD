@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716963059418",
+    "project_id": "help-md-5f13c",
+    "storage_bucket": "help-md-5f13c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716963059418:android:5117df733e544d08c1f7e3",
+        "android_client_info": {
+          "package_name": "vn.edu.demo.people_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716963059418-dq6pn38uhimep15074k8o6urtt3b346s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPHuFgKGkZPlS7NnM0VM3hbJ6ogMM8rBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716963059418-dq6pn38uhimep15074k8o6urtt3b346s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
